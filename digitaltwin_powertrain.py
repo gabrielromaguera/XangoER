@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np huhhu
 from scipy.integrate import odeint
 import matplotlib.pyplot as plt
 import cmath  # Para operações com números complexos
